@@ -9,3 +9,5 @@ Este es un proyecto web moderno desarrollado para un festival de música electr�
 * **Gulp**: Automatizador de tareas para optimizar el flujo de trabajo.
 * **JavaScript**: Funcionalidad interactiva del sitio.
 * **Sharp**: Procesamiento avanzado de imágenes para mejorar el rendimiento.
+
+// nmp run dev para compilar el proyecto
